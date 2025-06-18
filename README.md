@@ -1,9 +1,11 @@
 🛋️ Furniture Sales Analysis Dashboard using SQL Server
+
 This project presents a comprehensive SQL-based analysis of a Furniture Sales dataset. It covers key business metrics such as sales trends, profit analysis, shipping performance, and top-performing categories across U.S. regions.
 
 The entire KPIs are generated exclusively using SQL Server, leveraging powerful SQL concepts like CTEs, subqueries, and window functions.
 
 📌 Project Objectives
+
 Analyze overall sales, profit, and quantity performance
 Track YoY and MoM changes in sales and profitability
 Understand customer segment behavior and regional sales distribution
